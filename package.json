@@ -56,6 +56,7 @@
     "qunit": "^2.20.0",
     "rollup": "^4.1.5",
     "sass": "^1.69.5",
+    "vite": "^5.2.13",
     "yargs": "^17.7.2"
   },
   "overrides": {
@@ -100,5 +101,10 @@
       "no-eq-null": 2,
       "no-unused-expressions": 0
     }
+  },
+  "dependencies": {
+    "dat.gui": "^0.7.9",
+    "katex": "^0.16.10",
+    "three": "^0.165.0"
   }
 }
